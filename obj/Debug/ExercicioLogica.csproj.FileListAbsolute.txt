@@ -1,0 +1,11 @@
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.csproj.CoreCompileInputs.cache
+C:\Users\guipi\source\repos\teste\bin\Debug\ExercicioLogica.exe.config
+C:\Users\guipi\source\repos\teste\bin\Debug\ExercicioLogica.exe.manifest
+C:\Users\guipi\source\repos\teste\bin\Debug\ExercicioLogica.application
+C:\Users\guipi\source\repos\teste\bin\Debug\ExercicioLogica.exe
+C:\Users\guipi\source\repos\teste\bin\Debug\ExercicioLogica.pdb
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.csprojAssemblyReference.cache
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.exe.manifest
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.application
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.exe
+C:\Users\guipi\source\repos\teste\obj\Debug\ExercicioLogica.pdb

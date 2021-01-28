@@ -1,0 +1,11 @@
+C:\Users\guipi\source\repos\teste\bin\Debug\teste.exe.config
+C:\Users\guipi\source\repos\teste\bin\Debug\teste.exe.manifest
+C:\Users\guipi\source\repos\teste\bin\Debug\teste.application
+C:\Users\guipi\source\repos\teste\bin\Debug\teste.exe
+C:\Users\guipi\source\repos\teste\bin\Debug\teste.pdb
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.exe.manifest
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.application
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.exe
+C:\Users\guipi\source\repos\teste\obj\Debug\teste.pdb
